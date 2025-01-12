@@ -1,0 +1,12 @@
+﻿Department;Sex;Total_employees
+Admin Offices;F;4
+Admin Offices;"M ";3
+Executive Office;F;1
+IT/IS;F;19
+IT/IS;"M ";21
+"Production       ";F;75
+"Production       ";"M ";51
+Sales;F;12
+Sales;"M ";14
+Software Engineering;F;5
+Software Engineering;"M ";2
